@@ -1,14 +1,14 @@
 # Taller de modelación y validación de la arquitectura
 
-##Justificacións de arquitectura
+## Justificacións de arquitectura
 
-##Patrones
+## Patrones
 
-##Estilo de realización de servicio
+## Estilo de realización de servicio
 
-##Trade-off
+## Trade-off
 
-##Estilos de arquitectura
+## Estilos de arquitectura
 
 
 
