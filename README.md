@@ -1,6 +1,6 @@
 # Taller de modelación y validación de la arquitectura
 
-## Justificacións de arquitectura
+## Justificación de arquitectura
 
 ## Patrones
 
